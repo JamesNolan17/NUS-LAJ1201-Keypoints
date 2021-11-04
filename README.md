@@ -106,6 +106,15 @@
     - You are welcome: どういたしまして。
     - <img src="image-20211003004259065.png" alt="image-20211003004259065" style="zoom:33%;" align=left />
     - <img src="image-20211003231455968.png" alt="image-20211003231455968" style="zoom:20%;" align=left />
+- L6
+- L7
+    - What a nice: 〜、すてきですね。
+    - Welcome: いらっしゃい。
+    - Please come in: どうぞおあがりください。
+    - May I come in: しつれいします。
+    - Would you like to have --? [〜は]いかがですか。
+    - Greeting before eating: いただきます。
+    - Greeting after eating: ごちそうさまでした。
 
 ## Words
 
@@ -247,7 +256,7 @@
     - Cents: セント
     - <img src="image-20210923211834081.png" alt="image-20210923211834081" style="zoom:33%;" align=left />
     - <img src="image-20210924184224665.png" alt="image-20210924184224665" style="zoom:33%;" align=left />
-
+    
 - L4
 
     - Art museum: びじゅつかん
@@ -304,6 +313,7 @@
     - Empathy/Agrrement: ~ね
     - <img src="image-20210924214046396.png" alt="image-20210924214046396" style="zoom:33%;" align=left />
     - <img src="image-20210924215727451.png" alt="image-20210924215727451" style="zoom:33%;" align=left />
+    
 - L5
     - Last week: せんしゅう
     - This week: こんしゅう
@@ -352,3 +362,189 @@
     - <img src="image-20210928185225299.png" alt="image-20210928185225299" style="zoom:33%;" align=left />
     - <img src="image-20211003231844082.png" alt="image-20211003231844082" style="zoom:20%;" align=left />
     - <img src="image-20210928204858179.png" alt="image-20210928204858179" style="zoom:33%;" align=left />
+    
+- L6
+
+    - Eat: たべます
+    - Drink: のみます
+    - Watch: みます
+    - Hear/Listen: ききます
+    - Read: よみます
+    - 
+
+- L7
+    - Cut: きります
+    - Send: おくります
+    - Give: あげます
+    - Receive: もらいます
+    - Lend: かします
+    - Borrow: かります
+    - Teach: <font color="#dd0000">おしえます</font>
+    - Learn: <font color="#dd0000">な</font>らいます
+    - Make phone call: でんわをかけます
+    - Hand: て
+    - Chopsticks: はし
+    - Spoon: スプ<font color="#dd0000">ー</font>ン
+    - Knife: ナイフ
+    - Fork: フォーク
+    - Scissors: <font color="#dd0000">は</font>さみ
+    - PC: <font color="#dd0000">パソコン</font>
+    - Mobile Phone: ケー<font color="#dd0000">タ</font>イ
+    - E-mail: <font color="#dd0000">メー</font>ル
+    - New Year's Greeting Card: <font color="#dd0000">ねんがじょう</font>
+    - Hole Puncher: パンチ
+    - Stapler: <font color="#dd0000">ホッチキス</font>
+    - Scotch Tape: <font color="#dd0000">セロテープ</font>
+    - Eraser: <font color="#dd0000">けしゴム</font>
+    - Paper: かみ
+    - Flower: <font color="#dd0000">はな</font>
+    - Shirt: <font color="#dd0000">シャツ</font>
+    - Present: プレセンと
+    - Parcel: に<font color="#dd0000">もつ</font>
+    - Money: おか<font color="#dd0000">ね</font>
+    - Ticket: <font color="#dd0000">きっぷ</font>
+    - Christmas: ク<font color="#dd0000">リ</font>ス<font color="#dd0000">マ</font>ス
+    - My father: ちち
+    - My bother: はは
+    - Someone's Father: おとうさん
+    - Someone’s Mather: おか<font color="#dd0000">あ</font>さん
+    - Already: もう
+    - Not yet: まだ
+    - From now on, soon; これから
+    
+- L8
+
+    - Handsome: ハンサム
+    - Beautiful: きれい
+    - Quiet: <font color="#dd0000">しずか</font>
+    - Famous: ゆうめい
+    - Kind: <font color="#dd0000">しんせつ</font>
+    - Healthy: げんき
+    - Free: ひ<font color="#dd0000">ま</font>
+    - Convenient: べんり
+    - Nice: すでき
+    - Big: おおきい
+    - Small: ちいさい
+    - New: あたらしい
+    - Old: ふるい
+    - Good: いい
+    - Bad: <font color="#dd0000">わるい</font>
+    - Hot: <font color="#dd0000">あつい</font>
+    - Cold
+        - For Weather: さむい
+        - To Touch: <font color="#dd0000">つめたい</font>
+    - Difficult: <font color="#dd0000">むずかしい</font>
+    - Easy / Gentle: や<font color="#dd0000">さ</font>しい
+    - Expensive / Tall: たかい
+    - Cheap: やすい
+    - Low: ひくい
+    - Intersting: <font color="#dd0000">おもしろい</font>
+    - Delicious: おいしい
+    - Busy: <font color="#dd0000">いそがしい</font>
+    - Enjoyable: たのしい
+    - White: しろい
+    - Black: くろい
+    - Red: <font color="#dd0000">あかい</font>
+    - Blue: <font color="#dd0000">あおい</font>
+    - Cherry: さくら
+    - Mountain: やま
+    - Town / City: <font color="#dd0000">まち</font>
+    - Food: たべもの
+    - Place: <font color="#dd0000">ところ</font>
+    - Domitory: りょう
+    - Resteraurant: レストラン
+    - Life: <font color="#dd0000">せいかつ</font>
+    - Work: （お）しごと
+    - How: <font color="#dd0000">どう</font>
+    - What kind of: どんな〜
+    - Very: とても
+    - Not very: <font color="#dd0000">あまり</font>
+    - And: <font color="#dd0000">そして</font>
+    - But: 〜が、〜
+    - にぎやか
+    - れきしがながい　くに
+    - おとしより
+
+- L9
+
+    - Understand: わかります
+    - Have: あります
+    - Like: すき[な]
+    - Dislike: きらい[な]
+    - Good at: じょうず[な]
+    - Poor at: <font color="#dd0000">へた[な]</font>
+    - Drinks: のみもの
+    - Dish (Cooked food) / Food: りょうり
+    - Cook: りょうりをします
+    - Sports: スポーツ
+    - Baseball: <font color="#dd0000"><font color="#dd0000">やきゅう</font></font>
+    - Dance: ダンス
+    - Travel: <font color="#dd0000">りょこうをします</font>
+    - Trip: りょこう
+    - Classical Music: クラシック
+    - Jazz: ジャズ
+    - Music: <font color="#dd0000">おんがく</font>
+    - Concert: コンサート
+    - Song: うた
+    - Karaoke: カラオケ
+    - Hiragana: ひらがな
+    - Katakana: かたかな
+    - Ticket: チケット
+    - Promise: やくそくをします
+    - Kabuki: かぶき
+    - Part time job: アルバイト
+    - Picture/Drawing: え
+    - Well/Much/Often: よく
+    - Letter/Character: じ
+    - Mostly/Roughly: だいたい
+    - Chinese character: かんじ
+    - Many/Much: たくさん
+    - Because: 〜から
+    - Why: どうして
+    - Roman alphabet: ローマじ
+    - Please lend it to me: <font color="#dd0000">かしてください</font>
+    - Small change: <font color="#dd0000">こまかいおかね</font>
+    - Sure/Certainly: いいですよ。
+    - Unfortunately: <font color="#dd0000">ざんねんですが、</font>
+    - Time: じかん
+    - Errand/Something to do: <font color="#dd0000">ようじ</font>
+    - Promise/Appointment: やくそく
+    - (someone else's) Husband: ごじゅじん
+    - (my) Husband: おっと
+    - (someone else's) Wife: おくさん
+    - (my) Wife: <font color="#dd0000">つま</font>
+    - Child: <font color="#dd0000">こども</font>
+    - A little/A few: <font color="#dd0000">すこし</font>
+    - Not at all (used with negatives): ぜんぜん
+    - Early/Quickly/Fast: はやく
+    - Won't you join us: いっしょにいかがですか。
+    - ~ is a bit difficult: 〜はちょっと・・・
+    - So you can't?:だめですか。
+    - Please ask me again some other time: またこんどおねがいします
+
+    <img src="image-20211029100432812.png" alt="image-20211029100432812" style="zoom:50%;" />
+
+    
+
+    - で：activity
+    - に：exsistence
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ![image-20211018123415116](image-20211018123415116.png)
+    
+    
+    
+    
+    
+    - あとで
+    - ![image-20211015103047559](image-20211015103047559.png)
+    - ![image-20211015101245373](image-20211015101245373.png)
+    - <img src="image-20211011125244333.png" alt="image-20211011125244333" style="zoom:50%;" align=left />
+
