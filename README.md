@@ -130,7 +130,7 @@
     - I don't meet anyone: だれ<font color="#dd0000">にも</font>あいません
     - No one comes: だれもきません
     - (Emphasis the date) What do you do on Sun: にちようびはなにをしますか。
-    - <img src="/Users/home/Library/Application Support/typora-user-images/image-20211104174518776.png" alt="image-20211104174518776" style="zoom:50%;" />
+    - <img src="image-20211104174518776.png" alt="image-20211104174518776" style="zoom:50%;" />
     - Why don't we eat lunch together?: いっしょにひるごはんをたべませんか。
     - Tmr is a little bit hard for me: あしたはちょっと・・・
     - Let's go canteen!: じゃ、しょくどうへいきましょう。
@@ -158,12 +158,10 @@
     - How do you eat lunch?: なんでおすしをたべますか。
     - How to say "Thank you" in Japanese?: 'Thank you' はにほんごでなんですか。
     - On Christmas last year, Tanaka-san gave flowerrs to Sato-san: きょねんのクリスマスになたかさんはさとさんにはなをあげました。
-    - <img src="/Users/home/Library/Application Support/typora-user-images/image-20211105103632123.png" alt="image-20211105103632123" style="zoom:50%;" align=left />
-    - <img src="/Users/home/Library/Application Support/typora-user-images/image-20211105104815173.png" alt="image-20211105104815173" style="zoom:50%;" />
-    - <img src="/Users/home/Library/Application Support/typora-user-images/image-20211105104949840.png" alt="image-20211105104949840" style="zoom:50%;" />
-    - ![image-20211105105104593](/Users/home/Library/Application Support/typora-user-images/image-20211105105104593.png)
+    - <img src="image-20211105103632123.png" alt="image-20211105103632123" style="zoom:50%;" align=left />
+    - ![image-20211105105104593](image-20211105105104593.png)
     - Who do you receive present from?: だれにプレゼントをもらいましたか。
-    - <img src="/Users/home/Library/Application Support/typora-user-images/image-20211105111056143.png" alt="image-20211105111056143" style="zoom:50%;" />
+    - <img src="image-20211105111056143.png" alt="image-20211105111056143" style="zoom:50%;" />
 - L8
     - How are you?: おげんきですか。
     - I am fine!: はい、げんきです。
@@ -739,17 +737,6 @@
 
     
 
-    
-
-    
-
-    
-
-    
-
-    
-
     - で：activity
-    - に：exsistence
-
+- に：exsistence
 
