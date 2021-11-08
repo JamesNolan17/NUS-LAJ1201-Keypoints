@@ -107,14 +107,141 @@
     - <img src="image-20211003004259065.png" alt="image-20211003004259065" style="zoom:33%;" align=left />
     - <img src="image-20211003231455968.png" alt="image-20211003231455968" style="zoom:20%;" align=left />
 - L6
+    - That`s good: いいですね。
+    - I see/I got it: わかりました。
+    - See you tomorrow: じゃ、またあした。
+    - Yes? / What is it?: なんですか。
+    - Lets studay JAP together: いっしょににほんごをべんきょうしましょう!
+    - Today, took photo with Sato-san: きのう、さとさんと いっしょに しゃしんを とりました。
+    - Jap class is a bit hard but interesting: にほんごの クラスは、ちょっとたいへです。でも、おもしろいです。
+    - Please wait a moment: ちょっとまってください。
+    - How do you always go to university by?: Aさんは、いつもなんで だいがくにいきますか。
+    - I always eat dinner at home, sometimes eat in canteen: いつもうちでばんごはんをたべます。ときどきしょくどうでたべます。
+    - <font color="#dd0000">Sometimes I also play tennis</font>: ときどきサッカーもします。
+    - <font color="#dd0000">Sometimes I eat at home with my family</font>: ばんごはんはいつもかぞくとうちでたべます。
+    - Sunday I wrote my homework, then meet with friends: にちようびはしゅくだいをしました。それから、ともだちにあいました。
+    - Object を Verb
+    - Place で Action-verb
+    - I study in library: としょかんでべんきょうします。
+    - Today where are you going to eat lunch today?: きょうはどこで ひるごはんを たべますか。
+    - What do you eat every morning?: まいあさなにをたべますか。
+        - I eat bread: パンをたべます。
+        - I don't eat: なにもたべません。
+    - I don't meet anyone: だれ<font color="#dd0000">にも</font>あいません
+    - No one comes: だれもきません
+    - (Emphasis the date) What do you do on Sun: にちようびはなにをしますか。
+    - <img src="/Users/home/Library/Application Support/typora-user-images/image-20211104174518776.png" alt="image-20211104174518776" style="zoom:50%;" />
+    - Why don't we eat lunch together?: いっしょにひるごはんをたべませんか。
+    - Tmr is a little bit hard for me: あしたはちょっと・・・
+    - Let's go canteen!: じゃ、しょくどうへいきましょう。
+    - See you next time( this time cannot): じゃ、またこんど。
+    - When do you watch cherry bloosm this year?: ことしはいつおはなみおしますか。
+    - Can you also come with us?:　ミラさんもいっしょにいきませんか。
 - L7
-    - What a nice: 〜、すてきですね。
+    - What a nice: <font color="#dd0000">〜、すてきですね。</font>
+    - This shirt is so nice: そのシャツ、すてきですね！
+    - I received from my mother on my birthday: たんじょうびにははにもらいました。
     - Welcome: いらっしゃい。
+    - May I come in: <font color="#dd0000">しつれいします。</font>
     - Please come in: どうぞおあがりください。
-    - May I come in: しつれいします。
-    - Would you like to have --? [〜は]いかがですか。
+    - Would you like to have --? <font color="#dd0000">[〜は]いかがですか。</font>
     - Greeting before eating: いただきます。
-    - Greeting after eating: ごちそうさまでした。
+    - Greeting after eating: <font color="#dd0000">ごちそうさまでした。</font>
+    - Have you already eaten lunch?: もうひるごはんをたべましたかか。
+      - はい、（もう）たべました。
+      - <font color="#dd0000">いいえ、まだです。</font>
+      - I will do it now: これからします。
+    - From now on, where will you go?: これから、どこへいきますか。
+    - I cut the paper using scissors: はさみでかみをきります。
+    - Using: Object で Object を Action-verb
+    - Someone に (Something を) Action-verb
+    - How do you eat lunch?: なんでおすしをたべますか。
+    - How to say "Thank you" in Japanese?: 'Thank you' はにほんごでなんですか。
+    - On Christmas last year, Tanaka-san gave flowerrs to Sato-san: きょねんのクリスマスになたかさんはさとさんにはなをあげました。
+    - <img src="/Users/home/Library/Application Support/typora-user-images/image-20211105103632123.png" alt="image-20211105103632123" style="zoom:50%;" align=left />
+    - <img src="/Users/home/Library/Application Support/typora-user-images/image-20211105104815173.png" alt="image-20211105104815173" style="zoom:50%;" />
+    - <img src="/Users/home/Library/Application Support/typora-user-images/image-20211105104949840.png" alt="image-20211105104949840" style="zoom:50%;" />
+    - ![image-20211105105104593](/Users/home/Library/Application Support/typora-user-images/image-20211105105104593.png)
+    - Who do you receive present from?: だれにプレゼントをもらいましたか。
+    - <img src="/Users/home/Library/Application Support/typora-user-images/image-20211105111056143.png" alt="image-20211105111056143" style="zoom:50%;" />
+- L8
+    - How are you?: おげんきですか。
+    - I am fine!: はい、げんきです。
+    - How is life in SG?: Singaporeのせいかつはどうですか。
+    - Everyday quite busy but enjoyable: まいにちいそがしいですが、たのしいです。
+    - Very convenient and enjoyable: とてもべんりです。そして、たのしいです。
+    - When did you came to SG?: AさんはいつSingaporeへきましたか。
+    - How is your job?: おしごとはどうですか。
+    - Very enjoyable: とてもたのしいです。
+    - Please come: いらっしゃってくださいね！
+    - Not very busy: Aはあまりいそがしくないです。
+    - Not at all: Aはぜんぜんさむくないです
+    - Do you want to have another cup of coffee?: <font color="#dd0000">「」もういっぱいいかがですか。</font>
+    - No thanks. <font color="#dd0000">いいえ、けっこうです。</font>
+    - It's already 6:00, It's time to leave: <font color="#dd0000">もう６じですね。そろそろしつれいします。</font>
+    - Thank you for everything today: きょうはどうもありがとうございました。
+    - Not at all, please come again: <font color="#dd0000">いいえ、またいらっしゃってください。</font>
+    - What kind of city is Nara?: ならですか。ならは<font color="#dd0000">どんな</font>まちですか。
+    - なADJ: 
+        - 〜は〜じゃありません。
+        - 〜は〜「Noun」じゃないです。
+        - なADJな　＋　Noun
+        - きれいなはなです。
+    - いADJ:
+        - 〜は〜くないです。(Remove い)
+        - 〜はいいです。→　〜はよくないです。
+        - いADJ　＋　Noun
+        - たかいやまです。
+    - No matter い/な、if adj+Noun then → adj+Nounじゃありません。
+- L9
+    - Won't you join us: <font color="#dd0000">いっしょにいかがですか。</font>
+    - ~ is a bit difficult: 〜はちょっと・・・
+    - So you can't?:だめですか。
+    - Please ask me again some other time: またこんどおねがいします。
+    - Please lend it to me: <font color="#dd0000">かしてください。</font>
+    - Sure!: ええ、いいですよ。どうぞ。
+    - Do you understand ENG: Aさんはえいごがわかりますか。
+    - Do you also understand ENG: Aさんはえいごもわかりますか。
+    - Yes, I understand well: はい、よくわかります。
+    - No, I don't understand Korean at all: いいえ、かんこくごはぜんぜんわかりません。
+    - Today I will leave early: きょうは、はやくかえります。
+    - Why yesterday you didn't attend class?: どうしてきのうクラスにきませんでした。
+    - Because ~: 〜から、
+    - Why?: どうしてですか。
+    - What a pity: ざんねんですね。
+    - I am sorry, but I got things to do today: ざんねんですが、きょうはようじがあります。
+    - How about Sunday: にちようびはどうですか。
+    - Hi, is it Bさん?This is Aさん: もしもし、Bさんですか。Aさんです。
+    - A have a car: Aさんはくるまがあります。
+    - A also have a big house: おおきいうちもあります。
+    - Don't have time!: じかんはぜんぜんありません。
+    - あります・わかります
+        - A lot: たくさん vs よく(だいたい for mostly)
+        - A bit: すこし/ちょっど
+        - Not much: あまり〜ません
+        - Not at all: ぜんぜん〜ません
+    - I like JAP cook: にほんりょうりがすきです。
+    - I don't very like tampera: たんぷらはあまりすきじゃないです。
+    - I don't like wine: ワインが<font color="#dd0000">きらい</font>です。
+    - What kind of ~ do you like: どんな〜がすきですか。(While なんの is for the topic/content of 〜)
+    - I like various kinds of ~: いらいらな〜がすきです。
+    - What's your favourite sports: すきなスポーツはなんですか。
+    - My mom is good at cooking but I am not good at it: はははりょうりがじょうずです。でも、わたしはりょうりがへたです。
+    - Because A so B: Aから、B
+    - Why?: どうして〜。
+    - Why?: どうしてですか。
+- L10: 
+    - There are desk and chair in the room: へやのなかにつくえといすがあります。
+    - There is student: がくせいがいます。
+    - Between A and B: AとBのあいだに
+    - What is there?: なにがありますか。
+    - Who is there?: だれがいますか。
+    - Nothing: なにもありません。
+    - Aはかいだんのひだりにあります。
+    - Where is A: Aはどこにありますか。
+    - Now, no one is in the room: いま、うちにだれもいません
+    - 
+
 
 ## Words
 
@@ -163,7 +290,7 @@
     - <img src="image-20210924183608625.png" alt="image-20210924183608625" style="zoom:33%;" align=left />
     - <img src="image-20210924183708583.png" alt="image-20210924183708583" style="zoom:33%;" align=left />
     - <img src="image-20210924183751369.png" alt="image-20210924183751369" style="zoom:33%;" align=left />
-    
+
 - L2
     - This one: これ
     - This: この
@@ -205,7 +332,7 @@
     - Chinese: ちゅ<font color="#dd0000">う</font>ごくご
     - ~ language: 〜ご
     - What: なん
-    
+
 - L3
 
     - Polite Suffix(noun): お〜
@@ -256,7 +383,7 @@
     - Cents: セント
     - <img src="image-20210923211834081.png" alt="image-20210923211834081" style="zoom:33%;" align=left />
     - <img src="image-20210924184224665.png" alt="image-20210924184224665" style="zoom:33%;" align=left />
-    
+
 - L4
 
     - Art museum: びじゅつかん
@@ -313,7 +440,7 @@
     - Empathy/Agrrement: ~ね
     - <img src="image-20210924214046396.png" alt="image-20210924214046396" style="zoom:33%;" align=left />
     - <img src="image-20210924215727451.png" alt="image-20210924215727451" style="zoom:33%;" align=left />
-    
+
 - L5
     - Last week: せんしゅう
     - This week: こんしゅう
@@ -362,26 +489,67 @@
     - <img src="image-20210928185225299.png" alt="image-20210928185225299" style="zoom:33%;" align=left />
     - <img src="image-20211003231844082.png" alt="image-20211003231844082" style="zoom:20%;" align=left />
     - <img src="image-20210928204858179.png" alt="image-20210928204858179" style="zoom:33%;" align=left />
-    
+
 - L6
 
     - Eat: たべます
     - Drink: のみます
     - Watch: みます
     - Hear/Listen: ききます
-    - Read: よみます
-    - 
+    - Read: <font color="#dd0000">よみ</font>ます
+    - Write/Draw: かきます
+    - Buy: かいます
+    - Do\Play: します
+    - Meet a friend: ともだち　に　あいます
+    - Take a photo: しゃしんをとります
+    - Smoke: たばこをすいます
+    - Meal/Rice: ごはん
+    - Breakfast: あさごはん
+    - Lunch: ひるごはん
+    - Dinner: ばんごはん
+    - Bread: パン
+    - Egg: <font color="#dd0000">たまご</font>
+    - Meat: <font color="#dd0000">にく</font>
+    - Fish: <font color="#dd0000">さかな</font>
+    - Vegetable: やさい
+    - Fruit: くだもの
+    - Water: みず
+    - Tea: おちゃ
+    - English tea: <font color="#dd0000">こう</font>ちゃ
+    - Milk: 
+        - ぎゅうにゅう
+        - ミルク
+    - Juice: ジュース
+    - beer: ビール
+    - Alcohol/Japanese sake: おさけ
+    - Letter: <font color="#dd0000">てがみ</font>
+    - Report: レポート
+    - Video: <font color="#dd0000">ビデオ</font>
+    - Shop: みせ
+    - Garden: にわ
+    - Homework: しゅくだい
+    - Tennis: テニス
+    - Soccer: <font color="#dd0000">サッカー</font>
+    - Cherry blossom viewing: <font color="#dd0000">はなみ</font>
+    - What: なに
+    - Together: いっしょに
+    - A little bit: ちょっと
+    - Always: <font color="#dd0000">いつも</font>
+    - Sometimes: ときどき
+    - After that/And then: それから
+    - From now on: これから
+    - Yes: ええ
 
 - L7
-    - Cut: きります
+    - Cut: <font color="#dd0000">きります</font>
     - Send: おくります
     - Give: あげます
     - Receive: もらいます
-    - Lend: かします
-    - Borrow: かります
+    - Lend: <font color="#dd0000">かします</font>
+    - Borrow: <font color="#dd0000">かります</font>
     - Teach: <font color="#dd0000">おしえます</font>
     - Learn: <font color="#dd0000">な</font>らいます
-    - Make phone call: でんわをかけます
+    - Make phone call: <font color="#dd0000">でんわをかけます</font>
     - Hand: て
     - Chopsticks: はし
     - Spoon: スプ<font color="#dd0000">ー</font>ン
@@ -411,13 +579,14 @@
     - Already: もう
     - Not yet: まだ
     - From now on, soon; これから
-    
+
 - L8
 
     - Handsome: ハンサム
-    - Beautiful: きれい
+    - Beautiful: きれい「な」
     - Quiet: <font color="#dd0000">しずか</font>
-    - Famous: ゆうめい
+    - Lively: にぎやか
+    - Famous: ゆうめい「な」
     - Kind: <font color="#dd0000">しんせつ</font>
     - Healthy: げんき
     - Free: ひ<font color="#dd0000">ま</font>
@@ -434,7 +603,7 @@
         - For Weather: さむい
         - To Touch: <font color="#dd0000">つめたい</font>
     - Difficult: <font color="#dd0000">むずかしい</font>
-    - Easy / Gentle: や<font color="#dd0000">さ</font>しい
+    - Easy / Gentle: <font color="#dd0000">やさしい</font>
     - Expensive / Tall: たかい
     - Cheap: やすい
     - Low: ひくい
@@ -461,7 +630,6 @@
     - Not very: <font color="#dd0000">あまり</font>
     - And: <font color="#dd0000">そして</font>
     - But: 〜が、〜
-    - にぎやか
     - れきしがながい　くに
     - おとしより
 
@@ -475,9 +643,9 @@
     - Poor at: <font color="#dd0000">へた[な]</font>
     - Drinks: のみもの
     - Dish (Cooked food) / Food: りょうり
-    - Cook: りょうりをします
+    - Cook: りょうりを<font color="#dd0000">します</font>
     - Sports: スポーツ
-    - Baseball: <font color="#dd0000"><font color="#dd0000">やきゅう</font></font>
+    - Baseball: <font color="#dd0000">やきゅう</font>
     - Dance: ダンス
     - Travel: <font color="#dd0000">りょこうをします</font>
     - Trip: りょこう
@@ -490,61 +658,98 @@
     - Hiragana: ひらがな
     - Katakana: かたかな
     - Ticket: チケット
-    - Promise: やくそくをします
-    - Kabuki: かぶき
+    - Promise: <font color="#dd0000">やくそくをします</font>
+    - Kabuki: <font color="#dd0000">かぶき</font>
     - Part time job: アルバイト
-    - Picture/Drawing: え
-    - Well/Much/Often: よく
-    - Letter/Character: じ
+    - Picture/Drawing: <font color="#dd0000">え</font>
+    - Well/Much/Often: <font color="#dd0000">よく</font>
     - Mostly/Roughly: だいたい
-    - Chinese character: かんじ
     - Many/Much: たくさん
-    - Because: 〜から
-    - Why: どうして
-    - Roman alphabet: ローマじ
-    - Please lend it to me: <font color="#dd0000">かしてください</font>
-    - Small change: <font color="#dd0000">こまかいおかね</font>
-    - Sure/Certainly: いいですよ。
-    - Unfortunately: <font color="#dd0000">ざんねんですが、</font>
-    - Time: じかん
-    - Errand/Something to do: <font color="#dd0000">ようじ</font>
-    - Promise/Appointment: やくそく
-    - (someone else's) Husband: ごじゅじん
-    - (my) Husband: おっと
-    - (someone else's) Wife: おくさん
-    - (my) Wife: <font color="#dd0000">つま</font>
-    - Child: <font color="#dd0000">こども</font>
     - A little/A few: <font color="#dd0000">すこし</font>
     - Not at all (used with negatives): ぜんぜん
-    - Early/Quickly/Fast: はやく
-    - Won't you join us: いっしょにいかがですか。
-    - ~ is a bit difficult: 〜はちょっと・・・
-    - So you can't?:だめですか。
-    - Please ask me again some other time: またこんどおねがいします
+    - Letter/Character: じ
+    - Chinese character: かんじ
+    - Because: 〜から
+    - Why: <font color="#dd0000">どうして</font>
+    - Roman alphabet: ローマじ
+    - Small change: <font color="#dd0000">こまかいおかね</font>
+    - Sure/Certainly: <font color="#dd0000">いいですよ。</font>
+    - Unfortunately: <font color="#dd0000">ざんねんですが、</font>
+    - Time: <font color="#dd0000">じかん</font>
+    - Errand/Something to do: <font color="#dd0000">ようじ</font>
+    - Promise/Appointment: やくそく
+    - (someone else's) Husband: <font color="#dd0000">ごじゅじん</font>
+    - (my) Husband: <font color="#dd0000">おっと</font>
+    - (someone else's) Wife: <font color="#dd0000">おくさん</font>
+    - (my) Wife: <font color="#dd0000">つま</font>
+    - Child: <font color="#dd0000">こども</font>
+    - Early/Quickly/Fast: <font color="#dd0000">はやく</font>
 
-    <img src="image-20211029100432812.png" alt="image-20211029100432812" style="zoom:50%;" />
+- L10
+
+    - There is/Have: 
+        - Something: あります
+        - Someone: います
+
+    - Various: いろいろ「な」
+    - Man: おとこのひと
+    - Woman: おんなのひと
+    - Boy: おとこのこ
+    - Girl: おんあのこ
+    - Dog: いぬ
+    - Cat: ねこ
+    - Panda: パンダ
+    - Elephant: ぞう
+    - Tree: き
+    - Thing: もの
+    - Battery: でんち
+    - Box: はこ
+    - Switch: スイッチ
+    - Refrigerrator: れいぞうこ
+    - Table: テーブル
+    - Bed: ベッド
+    - Shelf: <font color="#dd0000">たな</font>
+    - Door: ドア
+    - Window: まど
+    - Postbox: ポスト
+    - Building: ビル
+    - Convenience Store: <font color="#dd0000">コンビニ</font>
+    - Park: <font color="#dd0000">こうえん</font>
+    - Cafe: <font color="#dd0000">きっさてん</font>
+    - 〜shop: 〜や
+    - Bus stop: のりば
+    - Prefecture: けん
+    - On/Above/Over: <font color="#dd0000">うえ</font>
+    - Under/Below/Beneath: した
+    - Front/Before: まえ
+    - Back/Behind: <font color="#dd0000">うしろ</font>
+    - Right: <font color="#dd0000">みぎ</font>
+    - Left: ひだり
+    - In: なか
+    - Outside: <font color="#dd0000">そと</font>
+    - Next door: となり
+    - Near: <font color="#dd0000">ちかく</font>
+    - Bewteen: あいだ
+    - A,B and so on: AやB
+    - The bottom: <font color="#dd0000">いちばんした</font>
+    - Corner/Section: コーナー
+    - Thai fish sauce: ナンプラー
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     
 
     - で：activity
     - に：exsistence
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    ![image-20211018123415116](image-20211018123415116.png)
-    
-    
-    
-    
-    
-    - あとで
-    - ![image-20211015103047559](image-20211015103047559.png)
-    - ![image-20211015101245373](image-20211015101245373.png)
-    - <img src="image-20211011125244333.png" alt="image-20211011125244333" style="zoom:50%;" align=left />
+
 
